@@ -20,34 +20,39 @@ Git in JetBrains IDE workshop
       * Specific branch
       * User
 * Working
-    * IDE git and VCS settings
-    * Stash changes
-    * Create branch
-    * Checkout branch
-    * Changes
-        * Partial commit
-        * Undoing
-            * Amend commit
-            * Revert commit
-            * Reset
-                * Hard
-                * Soft
-        * Compare branches
-    * Push to remote
-    * Merge or Rebase from remote
-        * Resolving conflicts
-            * Diff tool settings
-        * Undo merge or rebase
-    * Delete branch (and on remote)
-    * Cherry pick
-    * Create and push tag
-    * Subjective - What is missing
-        * Remote add/change/delete
+  * IDE git and VCS settings
+  * Create branch
+  * Checkout branch
+  * Blame line in file
+    * Previous blame
+  * Changes
+    * Partial commit
+    * Undoing
+      * Amend commit
+      * Revert commit
+      * Reset
+        * Hard
+        * Soft
+    * Compare branches
+    * Compare commits
+    * Patch
+    * Stash
+  * Push to remote
+  * Merge or Rebase from remote
+    * Resolving conflicts
+      * Diff tool settings
+    * Undo merge or rebase
+  * Delete branch (and on remote)
+  * Cherry pick
+  * Create and push tag
 * Advanced
   * Interactive rebase
     * Start
     * Actions with commits
   * Console
+* Subjective - What is missing
+  * Remote add/change/delete
+  * Reflog
 
 ## After
   * IDE Documentation
