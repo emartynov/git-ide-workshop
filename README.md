@@ -19,4 +19,7 @@ Git in JetBrains IDE workshop
       * Specific branch
       * User
 * Advanced
+  * Interactive rebase
+    * Start
+    * Actions with commits
   * Console
