@@ -7,6 +7,7 @@ Git in JetBrains IDE workshop
 * Working
   * IDE git and VCS settings
   * Create branch
+    * Rename branch
   * Checkout branch
   * Blame line in file
     * Previous blame
