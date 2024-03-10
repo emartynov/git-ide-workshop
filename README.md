@@ -30,6 +30,7 @@ Git in JetBrains IDE workshop
     * Undo merge or rebase
   * Delete branch (and on remote)
   * Cherry pick
+    * Partial cherry pick
   * Create and push tag
   * Subjective - What is missing
     * Remote add/change/delete
