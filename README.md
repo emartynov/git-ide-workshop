@@ -17,9 +17,14 @@ Git in JetBrains IDE workshop
       * Reset
         * Hard
         * Soft
+    * Compare branches
   * Push to remote
   * Merge or Rebase from remote
     * Resolving conflicts
       * Diff tool settings
     * Undo merge or rebase
   * Delete branch (and on remote)
+  * Cherry pick
+  * Create and push tag
+  * Subjective - What is missing
+    * Remote add/change/delete
