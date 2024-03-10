@@ -34,3 +34,4 @@ Git in JetBrains IDE workshop
   * Subjective - What is missing
     * Remote add/change/delete
     * Reflog
+    * Quick branch switch
