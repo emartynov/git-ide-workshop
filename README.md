@@ -16,7 +16,8 @@ Git in JetBrains IDE workshop
     * Undoing
       * Amend commit
       * Revert commit
-      * Reset
+        * Revert particular changes
+      * Reset to specific commit
         * Hard
         * Soft
     * Compare branches
