@@ -22,6 +22,7 @@ Git in JetBrains IDE workshop
 * Working
   * IDE git and VCS settings
   * Create branch
+    * Rename branch
   * Checkout branch
   * Blame line in file
     * Previous blame
@@ -30,12 +31,14 @@ Git in JetBrains IDE workshop
     * Undoing
       * Amend commit
       * Revert commit
-      * Reset
+        * Revert particular changes
+      * Reset to specific commit
         * Hard
         * Soft
     * Compare branches
     * Compare commits
     * Patch
+      * Apply patch
     * Stash
   * Push to remote
   * Merge or Rebase from remote
@@ -44,6 +47,7 @@ Git in JetBrains IDE workshop
     * Undo merge or rebase
   * Delete branch (and on remote)
   * Cherry pick
+    * Partial cherry pick
   * Create and push tag
 * Advanced
   * Interactive rebase
@@ -56,6 +60,7 @@ Git in JetBrains IDE workshop
 * Subjective - What is missing
   * Remote add/change/delete
   * Reflog
+  * Quick branch switch
 
 ## After
   * IDE Documentation
