@@ -9,6 +9,8 @@ Git in JetBrains IDE workshop
     * Create branch
     * Checkout branch
     * Commit change
+  * Amend change
     * Push to remote
     * Merge from remote
     * Rebase from remote
+  * Delete branch (and on remote)
