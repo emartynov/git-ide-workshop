@@ -18,6 +18,8 @@ Git in JetBrains IDE workshop
         * Hard
         * Soft
   * Push to remote
-  * Merge from remote
-  * Rebase from remote
+  * Merge or Rebase from remote
+    * Resolving conflicts
+      * Diff tool settings
+    * Undo merge or rebase
   * Delete branch (and on remote)
