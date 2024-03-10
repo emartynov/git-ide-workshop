@@ -23,4 +23,6 @@ Git in JetBrains IDE workshop
     * Start
     * Actions with commits
   * Rebase --onto
+  * Multiple changelist
+    * Tasks and context
   * Console
