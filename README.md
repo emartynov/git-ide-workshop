@@ -14,6 +14,7 @@ Git in JetBrains IDE workshop
       * Commit hash 
       * Commit originator and performer
       * Commit timestamp (rebase or other history rewrite) 
+      * Show file diffs
     * Filters
       * Specific branch
       * User
