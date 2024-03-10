@@ -49,6 +49,9 @@ Git in JetBrains IDE workshop
   * Interactive rebase
     * Start
     * Actions with commits
+  * Rebase --onto
+  * Multiple changelist
+    * Tasks and context
   * Console
 * Subjective - What is missing
   * Remote add/change/delete
