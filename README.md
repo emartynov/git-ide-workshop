@@ -9,8 +9,14 @@ Git in JetBrains IDE workshop
   * Stash changes
   * Create branch
   * Checkout branch
-  * Commit change
-  * Amend change
+  * Changes
+    * Partial commit
+    * Undoing
+      * Amend commit
+      * Revert commit
+      * Reset
+        * Hard
+        * Soft
   * Push to remote
   * Merge from remote
   * Rebase from remote
