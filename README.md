@@ -17,3 +17,4 @@ Git in JetBrains IDE workshop
     * Filters
       * Specific branch
       * User
+* Advanced
