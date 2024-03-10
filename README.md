@@ -22,6 +22,7 @@ Git in JetBrains IDE workshop
     * Compare branches
     * Compare commits
     * Patch
+      * Apply patch
     * Stash
   * Push to remote
   * Merge or Rebase from remote
