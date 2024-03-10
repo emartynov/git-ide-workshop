@@ -19,3 +19,10 @@ Git in JetBrains IDE workshop
       * Specific branch
       * User
 * Advanced
+* After
+  * IDE Documentation
+    * (VCS window)[https://www.jetbrains.com/help/idea/version-control-tool-window.html]
+    * (Version control settings)[https://www.jetbrains.com/help/idea/settings-version-control.html]
+    * (Diff settings)[https://www.jetbrains.com/help/idea/settings-tools-diff-and-merge.html]
+    * (Git settings)[https://www.jetbrains.com/help/idea/settings-version-control-git.html]
+  * Git learnings
