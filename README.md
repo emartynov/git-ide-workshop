@@ -19,3 +19,4 @@ Git in JetBrains IDE workshop
       * Specific branch
       * User
 * Advanced
+  * Console
