@@ -6,9 +6,10 @@ Git in JetBrains IDE workshop
 
 * Working
   * IDE git and VCS settings
-  * Stash changes
   * Create branch
   * Checkout branch
+  * Blame line in file
+    * Previous blame
   * Changes
     * Partial commit
     * Undoing
@@ -18,6 +19,9 @@ Git in JetBrains IDE workshop
         * Hard
         * Soft
     * Compare branches
+    * Compare commits
+    * Patch
+    * Stash
   * Push to remote
   * Merge or Rebase from remote
     * Resolving conflicts
@@ -28,3 +32,4 @@ Git in JetBrains IDE workshop
   * Create and push tag
   * Subjective - What is missing
     * Remote add/change/delete
+    * Reflog
