@@ -22,4 +22,5 @@ Git in JetBrains IDE workshop
   * Interactive rebase
     * Start
     * Actions with commits
+  * Rebase --onto
   * Console
